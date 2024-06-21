@@ -1,6 +1,6 @@
 # Spotify Music Played Analysis
 
-Inspired by [jayeshironside](https://github.com/jayeshironside/Spotify-Streaming-history-analysis/blob/main/README.md)
+Heavily inspired by [jayeshironside](https://github.com/jayeshironside/Spotify-Streaming-history-analysis/blob/main/README.md) but I create a lot of new visual displays.
 
 In this repository, I analyze and visualize my user data from Spotify to create beautiful visualizations, available [here (WIP)](https://www.parthiv.dev/blog/spotify-visualizations) and [./visualizations](https://github.com/cparthiv/spotify-analysis/tree/main/visualizations)
 
